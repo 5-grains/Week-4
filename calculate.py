@@ -1,5 +1,5 @@
-first_number = int(input("First Number: "))
-second_number = int(input("Second Number: "))
+first_number = int(input("First Number: 2"))
+second_number = int(input("Second Number: 2"))
 
 sum = first_number + second_number
 difference = first_number + second_number
